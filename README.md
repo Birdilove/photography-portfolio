@@ -31,7 +31,7 @@
   <h3 align="center">Photography Portfolio</h3>
 
   <p align="center">
-    A Website created using Tailwind CSS, HTML, CSS <br /> and JavaScript that can be used as a Photography Portfolio.
+    A Website created using Tailwind CSS, Chawal, HTML, CSS <br /> and JavaScript that can be used as a Photography Portfolio.
     <br />
     <br />
     <a href="https://photography-portfolio-joaofranco03.netlify.app/">View Demo</a>
